@@ -9,7 +9,7 @@ There are numerous tools available that aid in the development of green software
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
+<!--     <style>
         table {
             width: 100%;
             border-collapse: collapse;
@@ -22,7 +22,7 @@ There are numerous tools available that aid in the development of green software
         th {
             /* background-color: #f0f0f0; */
             color: #00BF63;
-        }
+        } -->
     </style>
 </head>
 <body>
