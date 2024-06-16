@@ -22,8 +22,8 @@ There are numerous tools available that aid in the development of green software
         th {
             /* background-color: #f0f0f0; */
             color: #00BF63;
-        } -->
-    </style>
+        }
+    </style> -->
 </head>
 <body>
 
